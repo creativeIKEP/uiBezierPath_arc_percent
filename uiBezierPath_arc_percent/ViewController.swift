@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  uiBezierPath_arc_percent
-//
-//  Created by yoshiyuki oshige on 2017/08/24.
-//  Copyright © 2017年 yoshiyuki oshige. All rights reserved.
-//
+
 
 import UIKit
 
